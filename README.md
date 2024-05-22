@@ -1,0 +1,2 @@
+# Practica-2_VC
+Practica_2_Vision_Por_Computadora
